@@ -2,7 +2,7 @@ array = []
 
 def my_collect(array)
 
-array.upcase
+return array.upcase
 
 
 end
