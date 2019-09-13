@@ -1,6 +1,6 @@
 def my_collect(array)
 
-language.upcase 
+array.upcase 
 
 
 end
