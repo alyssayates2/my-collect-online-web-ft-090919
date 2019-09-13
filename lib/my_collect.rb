@@ -1,6 +1,8 @@
+array = []
+
 def my_collect(array)
 
-array.upcase 
+array.upcase
 
 
 end
