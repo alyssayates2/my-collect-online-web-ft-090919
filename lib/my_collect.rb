@@ -1,7 +1,7 @@
 array = []
 
-def my_collect(array) do 
-  language.upcase
+def my_collect(array)
+  array.upcase
 
- end
+
 end
